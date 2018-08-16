@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Wallet Insights</string>
+    <string name="Etext">Enter your email</string>
+    <string name="Epassword">Enter your password</string>
+    <string name="Btext">SIGN UP</string>
+    <string name="Btext1">LOGIN</string>
+    <string name="Ulogin">WALLETINSIGHTS</string>
+    <string name="Ureg">User Registration</string>
+    <string name="Tview"><![CDATA[Already Registered? Sign in here]]></string>
+    <string name="Tview1">![CDATA[Not have an account? Sign up Here]]</string>
+    <string name="TextLogout">LOGOUT</string>
+    <string name="fullname">Enter your full name</string>
+    <string name="phoneNumber">Enter Phone Number</string>
+    <string name="saveInfo">Save Information</string>
+    <string name="slidename1">HEADING</string>
+    <string name="slidename2">Descrption</string>
+    <string name="todo">TODO</string>
+    <string name="prevButton">Back</string>
+    <string name="nextButton">Next</string>
+    <string name="TextDelete">Delete Account</string>
+    <string name="TForgetPassword">Forgot your Password?</string>
+    <string name="ForgotPass">FORGOT PASSWORD</string>
+    <string name="FDec">Enter your registered Email Id to reset your password.</string>
+    <string name="EForgottext">Email ID</string>
+    <string name="BRestPass">Reset Password</string>
+    <string name="TBack"><![CDATA[<<BACK]]></string>
+</resources>
