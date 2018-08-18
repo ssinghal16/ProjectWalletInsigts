@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Wallet Insights</string>
+    <string name="Etext">Enter your email</string>
+    <string name="Epassword">Enter your password</string>
+    <string name="Btext">SIGN UP</string>
+    <string name="Btext1">LOGIN</string>
+    <string name="Ulogin">WALLETINSIGHTS</string>
+    <string name="Ureg">User Registration</string>
+    <string name="Tview"><![CDATA[Already Registered? Sign in here]]></string>
+    <string name="Tview1">Not have an account? Sign up Here</string>
+    <string name="TextLogout">LOGOUT</string>
+    <string name="fullname">Enter your full name</string>
+    <string name="phoneNumber">Enter Phone Number</string>
+    <string name="saveInfo">Save Information</string>
+    <string name="slidename1">HEADING</string>
+    <string name="slidename2">Descrption</string>
+    <string name="todo">TODO</string>
+    <string name="prevButton">Back</string>
+    <string name="nextButton">Next</string>
+    <string name="TextDelete">Delete Account</string>
+    <string name="TForgetPassword">Forgot your Password?</string>
+    <string name="ForgotPass">FORGOT PASSWORD</string>
+    <string name="FDec">Enter your registered Email Id to reset your password.</string>
+    <string name="EForgottext">Email ID</string>
+    <string name="BRestPass">Reset Password</string>
+    <string name="TBack"><![CDATA[<<BACK]]></string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">SETTINGS</string>
+    <string name="TextSetting">Settings</string>
+    <string name="Ldash">DASHBOARD</string>
+
+    <!--Spinner String -->
+    <string name="spinner_title">Select Category</string>
+    <string name="title_activity_home">WALLET INSIGTS</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="home">Home</string>
+    <string name="budget">Budget</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="logout">Logout</string>
+    <string name="contact">Contact Us</string>
+    <string name="about">About us</string>
+    <string name="rate">Rate</string>
+    <string name="action_addMember">Add Member</string>
+    <string name="action_createGroup">Create Group</string>
+
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_budget">Budget</string>
+    <string name="nav_income">Income</string>
+    <string name="nav_expense">Expense</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_logout">Logout</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Home</item>
+        <item>Budget</item>
+        <item>Income</item>
+        <item>Expense</item>
+        <item>Settings</item>
+        <item>Logout</item>
+    </string-array>
+
+    <string name="activity_title_about_us">About Us</string>
+    <string name="activity_title_Contact_us">Contact Us</string>
+    <string name="activity_title_rate">Rate</string>
+    <string name="chnagepass">Change Password</string>
+    <string name="addexpense">Add Expense</string>
+    <string name="addIncome">Add Income</string>
+
+</resources>
