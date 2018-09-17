@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddIncome"
+    android:id="@+id/scrollView1"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/editamount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:gravity="left"
+        android:hint="@string/amount"
+        android:layout_margin="15dp"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/source"
+            android:layout_margin="15dp"/>
+
+        <Spinner
+            android:id="@+id/spinner"
+            android:layout_margin="15dp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:entries="@array/android_dropdownincome"
+            android:padding="5dp"/>
+    </LinearLayout>
+
+        <EditText
+            android:id="@+id/textLabel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/label"
+            android:layout_gravity="left"
+            android:layout_margin="15dp"/>
+        <EditText
+            android:id="@+id/textDate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/date"
+            android:layout_margin="15dp"/>
+        <Button
+            android:id="@+id/btnNext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/addIncome"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_margin="15dp"/>
+
+
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>
