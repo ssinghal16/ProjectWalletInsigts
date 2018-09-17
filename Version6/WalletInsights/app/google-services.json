@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "851375368534",
+    "firebase_url": "https://walletinsights.firebaseio.com",
+    "project_id": "walletinsights",
+    "storage_bucket": "walletinsights.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851375368534:android:2a65d4c9fca0f972",
+        "android_client_info": {
+          "package_name": "com.achivers.ssinghal.walletinsights"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851375368534-a7aqug06urjeuaipd2ptttu8ialggu2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4FgtCbzr2QVx1gwnwtN3pPAWAWDToMhQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
